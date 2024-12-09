@@ -26,6 +26,7 @@ class Calculator:
         except Exception as e:
             self.equation.set("Error")
 
+adddddddadadadad
 
 root = Tk()
 calculator = Calculator(root)
